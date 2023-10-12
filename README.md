@@ -1,6 +1,6 @@
 # TicTacToe by Shashwat Srivastava
-This project creates a text based Tic Tac Toe game using Python
-Code will prompt user to enter Row number and Position number
+This project creates a text based two-player Tic Tac Toe game using Python
+Code will prompt user to enter Row number and Position number, then prompt other user to do thae same for their turn
 
 #### Rows
 r1 -> Top row
